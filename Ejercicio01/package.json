@@ -1,0 +1,23 @@
+{
+  "name": "ejercicio01",
+  "version": "1.0.0",
+  "description": "Este es el Ejercicio 01 del curso Javascript en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "primerEjercicioJs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afredocarpio/ejercicio01-Js.git"
+  },
+  "keywords": [
+    "ejercicio01"
+  ],
+  "author": "Alfredo Carpio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afredocarpio/ejercicio01-Js/issues"
+  },
+  "homepage": "https://github.com/Afredocarpio/ejercicio01-Js#readme"
+}
